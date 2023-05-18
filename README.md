@@ -92,6 +92,7 @@
  > ``` pip3 install djongo ``` 
 
 # 3. server (django) <br>
+## db 테이블 생성 및 적용하기 
 -  model 생성 후 makemigrate 필요
  > ``` python3 manage.py makemigrate ``` <br>
  - makemigrate 실행 후 magration 실행
